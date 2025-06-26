@@ -1,0 +1,13 @@
+﻿<values>
+  <value name="extname" type="string">ms-dotnettools.csdevkit</value>
+  <value name="VSInstanceId" type="string">055d7e8d-5e42-4119-abf5-586e14d67d9e1716356243914</value>
+  <value name="vscodeversion" type="string">1.89.0</value>
+  <value name="ShutdownReason" type="int">3</value>
+  <value name="CTime" type="qword">133608298542174535</value>
+  <value name="VSIs64BitProcess" type="string">True</value>
+  <value name="StillAlive" type="qword">133608649670945159</value>
+  <value name="PID" type="int">8143</value>
+  <value name="extversion" type="string">1.5.20</value>
+  <value name="VSExeVersion" type="string">4.4.8111.7485</value>
+  <value name="ExeName" type="string">Microsoft.ServiceHub.Controller</value>
+</values>
